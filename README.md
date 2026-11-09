@@ -1,2 +1,2 @@
 # coffee-productivity-study
-Hypothesis: Ambient coffee shop noise improves creative focus.
+Hypothesis: Quiet library environments yield higher productivity than coffee shops.
