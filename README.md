@@ -1,2 +1,2 @@
 # coffee-productivity-study
-Hypothesis: Ambient coffee shop noise improves creative focus.
+Hypothesis: Moderate coffee shop noise (65 dB) maximizes study focus.
